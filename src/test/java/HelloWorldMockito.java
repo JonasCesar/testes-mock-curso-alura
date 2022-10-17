@@ -7,7 +7,6 @@ import org.mockito.Mockito;
 
 import br.com.alura.leilao.dao.LeilaoDao;
 import br.com.alura.leilao.model.Leilao;
-import junit.framework.Assert;
 
 public class HelloWorldMockito {
 	
